@@ -1,5 +1,9 @@
 MIT License
-2
+<<<<<<< HEAD
+
+=======
+1
+>>>>>>> branch1
 Copyright (c) 2018—preset Artem Zakharchenko
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
